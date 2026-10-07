@@ -14,6 +14,7 @@ My work focuses on **AI for sustainability**, especially in the eco-design phase
 
 | Project | Description |
 |---|---|
+| [world-tracker](https://github.com/bossforcoding/world-tracker) | Mobile app in React Native and Expo to track visited countries, regions and cities, with badges |
 | [kanban-board](https://github.com/bossforcoding/kanban-board) | Kanban board in React with drag and drop, multiple boards and filters · [live demo](https://bossforcoding.github.io/kanban-board/) |
 | [analysis-on-insurance-data](https://github.com/bossforcoding/analysis-on-insurance-data) | EDA, regression and classification on medical insurance costs |
 | [calendar](https://github.com/bossforcoding/calendar) | Desktop calendar app in Java and JavaFX, available in 4 languages |
